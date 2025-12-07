@@ -9,3 +9,5 @@ This repository contains my class assignments for practice and organization.
 ## Tools Used:
 - GitHub
 - Notepad++ / VS Code
+## Added a small update as required for the assignment.
+
